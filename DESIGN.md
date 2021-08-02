@@ -113,7 +113,7 @@ Here are some example "Wheres" in various different coordinate systems
 
 ``` javascript
 {
-  location: {core: "angry", intesity: 5, nuance: "Feeling betrayed :("},
+  location: {core: "angry", intensity: 5, nuance: "Feeling betrayed :("},
   meta: {current: true, quality: "worst", rank: "primary"}
 }
 ```
